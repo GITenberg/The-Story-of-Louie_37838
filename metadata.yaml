@@ -1,0 +1,31 @@
+_repo: The-Story-of-Louie_37838
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37838-h/images/louie_cover.jpg
+creator:
+  author:
+    agent_name: Onions, Oliver
+    alias: Oliver, George
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '5392'
+    url: http://www.gutenberg.org/2009/agents/5392
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Onions
+description: Looking for a read that's a bit out of the ordinary? Ahead-of-his-time
+  author Oliver Onions lays it all on the line in The Story of Louie, bringing to
+  bear the soaring imagination and keen eye for detail that helped him play a major
+  role in the development of the psychological horror genre.
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Story of Louie
+url: http://www.gutenberg.org/ebooks/37838
